@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+#showSketchs{
+    float: right;
+}
+p{
+    font-size: x-large;
+}
